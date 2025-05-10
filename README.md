@@ -1,1 +1,1 @@
-Этот проект представляет собой книжный магазин, где Backend это WEB API, написанное на .NET Core API и Frontend, который написан на React JS
+Этот проект представляет собой CRUD приложение с книгами, где Backend это WEB API, написанное на .NET Core API на языке C# и Frontend, который написан на React  и сервере NEXT на языке TypeScript
