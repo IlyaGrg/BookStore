@@ -30,5 +30,6 @@ namespace BookStore.Core.Models
             var book = new Book(id , title , description , price);
             return (book, error);
         }
+        //Всем хай
     }
 }
